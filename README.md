@@ -1,2 +1,0 @@
-# CameraReact
-Created with CodeSandbox
